@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:Sch=C3=A4fers;Bj=C3=B6rn;;;
+FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:Bj=C3=B6rn Sch=C3=A4fers
+ORG:SMF-Solutions GmbH
+TITLE:Konstruktionsleiter
+TEL;TYPE=CELL,VOICE:+4915121869388
+EMAIL;TYPE=INTERNET,WORK:bjoernschaefers@smf-solutions.de
+URL:https://www.smf-solutions.com/de-de
+ADR;TYPE=WORK:;;An den Bleicherkolken 10;Aschendorf;;26871;Deutschland
+LABEL;TYPE=WORK:An den Bleicherkolken 10\n26871 Aschendorf\nDeutschland
+END:VCARD
